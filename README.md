@@ -34,9 +34,9 @@ Create, update, and delete patient records as needed.
 
 ## 📸 Screenshots
 
-- Interface for managing doctor records.
-- Create and manage specialties for doctors.
-- Overview of patient records.
+![Juan Fernando Vaquera Sanchez](https://firebasestorage.googleapis.com/v0/b/vaquera-github.firebasestorage.app/o/Juan-Fernando-Vaquera-Sanchez-Images%2FCRUDCONSULTORIO.jpeg?alt=media&token=22a60b44-84da-401c-b0d2-9861adc5522c)
+
+![Juan Fernando Vaquera Sanchez](https://firebasestorage.googleapis.com/v0/b/vaquera-github.firebasestorage.app/o/Juan-Fernando-Vaquera-Sanchez-Images%2FCRUDCONSULTORIO2.jpeg?alt=media&token=22793c2b-d772-43b5-a93a-a7a3f0778e18)
 
 ## About
 
