@@ -34,9 +34,9 @@ Create, update, and delete patient records as needed.
 
 ## 📸 Screenshots
 
-![Juan Fernando Vaquera Sanchez](https://firebasestorage.googleapis.com/v0/b/vaquera-github.firebasestorage.app/o/Juan-Fernando-Vaquera-Sanchez-Images%2FCRUDCONSULTORIO.jpeg?alt=media&token=22a60b44-84da-401c-b0d2-9861adc5522c)
+![Juan Fernando Vaquera Sanchez](https://github.com/Vaquera26/ConsultorioCRUD/blob/main/Photos/CRUDCONSULTORIO.jpeg?raw=true)
 
-![Juan Fernando Vaquera Sanchez](https://firebasestorage.googleapis.com/v0/b/vaquera-github.firebasestorage.app/o/Juan-Fernando-Vaquera-Sanchez-Images%2FCRUDCONSULTORIO2.jpeg?alt=media&token=22793c2b-d772-43b5-a93a-a7a3f0778e18)
+![Juan Fernando Vaquera Sanchez](https://github.com/Vaquera26/ConsultorioCRUD/blob/main/Photos/CRUDCONSULTORIO2.jpeg?raw=true)
 
 ## About
 
